@@ -4,4 +4,4 @@
 
 로그인과 지원서 작성을 연동할 수 있었으면 좋았겠지만 아쉽게도 그렇게까지 하지는 못했다
 
-(참고하면 좋을 자료)[https://ehpub.co.kr/category/mfc-%ec%8b%a4%ec%8a%b5/]
+[참고하면 좋을 자료](https://ehpub.co.kr/category/mfc-%ec%8b%a4%ec%8a%b5/)
